@@ -1,0 +1,4 @@
+   text	   data	    bss	    dec	    hex	filename
+    154	      4	      0	    158	     9e	function.o
+    195	      0	      0	    195	     c3	main.o
+ 781676	  23232	  23016	 827924	  ca214	main
