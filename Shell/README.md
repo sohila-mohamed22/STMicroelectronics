@@ -29,7 +29,7 @@ If only the source file path is provided, the target file will use the same name
 The -f option can be used to force overwrite the target file if it exists.
 Usage: mv -f <sourcePath> <targetPath>
 
-# exit: Terminate the shell.
+### exit: Terminate the shell.
 Usage: exit
 Description: Prints "good bye" and exits the shell.
 
@@ -38,6 +38,6 @@ Usage: help
 Description: Lists all the built-in commands with a brief description of each.
 Building and Running
 
-### To build and run the shell program, follow these steps:
+# To build and run the shell program, follow these steps:
 1. gcc -static command.c Shell.c -o Shell
 2. ./Shell
