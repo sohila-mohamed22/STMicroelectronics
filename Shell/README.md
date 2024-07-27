@@ -29,7 +29,7 @@ If only the source file path is provided, the target file will use the same name
 The -f option can be used to force overwrite the target file if it exists.
 Usage: mv -f <sourcePath> <targetPath>
 
-### exit: Terminate the shell.
+# exit: Terminate the shell.
 Usage: exit
 Description: Prints "good bye" and exits the shell.
 
