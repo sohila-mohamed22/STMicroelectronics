@@ -96,7 +96,7 @@ void copy_files()
 				}
 				else
 				{
-			            printf("%d\n",fd[1]);
+			            perror("Error");
 				    close(fd[0]);
 				}
 				return ;
