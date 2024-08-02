@@ -15,7 +15,8 @@ The following built-in commands are supported, with renamed duplicates to avoid 
     If only a directory is provided as the target path, the source file name is used for the target file.
     The -a option can be used to append the source content to the end of the target file.
     Usage: cp -a <sourcePath> <targetPath>
-    #### mymv: Move/rename files (equivalent to mv).
+    
+    ### mymv: Move/rename files (equivalent to mv).
     Usage: mv <sourcePath> <targetPath>
     Description: Moves the source file to the target path.
     If the target file exists, an error message is printed.
