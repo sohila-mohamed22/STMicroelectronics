@@ -8,7 +8,7 @@ found in the system's PATH. The shell ensures efficient resource management and 
 
 The following built-in commands are supported, with renamed duplicates to avoid conflicts with external commands:
 
-    ### mycp: Copy files (equivalent to cp).
+    ## mycp: Copy files (equivalent to cp).
     Usage: cp <sourcePath> <targetPath>
     Description: Copies the content of the source file to the target file.
     If the target file not exists, an error message is printed.
