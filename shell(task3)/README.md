@@ -11,6 +11,7 @@ The following built-in commands are supported, with renamed duplicates to avoid 
     #### mycp: Copy files (equivalent to cp).
     Usage: cp <sourcePath> <targetPath>
     Description: Copies the content of the source file to the target file.
+    Example: 
     If the target file not exists, an error message is printed.
     If only a directory is provided as the target path, the source file name is used for the target file.
     The -a option can be used to append the source content to the end of the target file.
